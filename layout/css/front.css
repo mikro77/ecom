@@ -1,0 +1,26 @@
+
+/* strt main Ruls*/
+body {
+    background-color: #f4f4f4;
+    font-size: 20px;   
+}
+/* End Main Ruls */
+
+.upper-bar {
+    padding: 3px;
+}
+
+.login-page form {
+
+    max-width: 500px;
+    margin: auto;
+}
+
+.login-page form input {
+ margin-bottom: 10px;
+}
+
+.information{
+    margin-top: 25x;
+
+ }
