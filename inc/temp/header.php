@@ -24,7 +24,7 @@
                     echo "[ You Are Need To Activate By Admin ] ";
                 }
             }else{
-echo '   <span class="pull-right"> <a href="login.php" > login | signup </a> </span>';
+            echo '<span class="pull-right"> <a href="login.php" > login | signup </a> </span>';
             }
          ?>
          
