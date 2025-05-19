@@ -21,7 +21,7 @@ if(isset($_SESSION['User']))
                     <div class="form-group has-success form-group-lg  "> 
                             <label class="control-label col-sm-2" >Item Name</label> 
                         <div class="col-sm-10 col-md-9"> 
-                            <input class="form-control " require="required" type="text" name="Name" placeholder="Name Of item"> 
+                            <input class="form-control live-name" require="required" type="text" name="Name" placeholder="Name Of item"> 
                         </div> 
                     </div> 
             <!--end name of item  -->
@@ -97,7 +97,7 @@ if(isset($_SESSION['User']))
 
 
 
-    <div class="col-md-4">      
+    <div class="col-md-4 live-preview" >      
     <div class="thumbnail item-box" >
     <span class="price-tag" >0</span>
             <image class="image-responsive" src="888886.JPEG" alt="" />

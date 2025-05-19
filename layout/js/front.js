@@ -1,6 +1,6 @@
 $(function () {
   "use strict";
-
+/*
   // Switch between login & singup
   $(".login-page h1 span").on("click", function () {
     $(this).addClass("selected").siblings("h1 span").removeClass("selected");
@@ -46,5 +46,17 @@ $(function () {
   $("input[name='image']").change(function() {
     $(".live-preview img").fadeIn("fast").attr('src',URL.createObjectURL(event.target.files[0]));
   });
+
+*/
+
+
+$(.live-name).keyup(function () {
+console.log($(this).val())
+});
+
+
+
+
+
 
 });
