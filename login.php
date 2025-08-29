@@ -17,6 +17,7 @@ if(isset($_POST['login'])){
 $user = $_POST['username'];
 $pass = $_POST['password'];
 $hashpass = sha1($pass);
+echo $hashpass ;  
 
 //::// [:: CHECK USER && PASS ::] //:://
 

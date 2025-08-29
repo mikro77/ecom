@@ -30,4 +30,7 @@ include $tbl   ."header.php" ;
 include $tbl . "navbar.php" ;
 
  
+//include navbar without noNavbar Variable //include navbar without noNavbar Variable 
+//include navbar without noNavbar Variable //include navbar without noNavbar Variable 
+//include navbar without noNavbar Variable //include navbar without noNavbar Variable 
 ?>
